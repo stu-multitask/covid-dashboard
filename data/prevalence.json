@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2020-08-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "None"
+  },
+  {
+    "date": "2020-08-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "None"
+  },
+  {
+    "date": "2020-08-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "None"
+  },
+  {
+    "date": "2020-08-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "None"
+  },
+  {
+    "date": "2020-08-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "None"
+  },
+  {
+    "date": "2026-10-04",
+    "source": "BuDS",
+    "prevalence_proportion": 0.005714285714285714,
+    "prevalence_ratio": 175,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "prevalence",
+    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-4-october-2026/"
+  },
+  {
+    "date": "2026-10-12",
+    "source": "disease.sh",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "cases",
+    "raw_value": "24910387"
+  }
+]
