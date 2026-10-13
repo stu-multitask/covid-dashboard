@@ -1,5 +1,3155 @@
 [
   {
+    "date": "2026-01-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "58.0"
+  },
+  {
+    "date": "2026-01-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "674.0"
+  },
+  {
+    "date": "2026-01-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.86"
+  },
+  {
+    "date": "2026-01-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "70.0"
+  },
+  {
+    "date": "2026-01-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "659.0"
+  },
+  {
+    "date": "2026-01-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.84"
+  },
+  {
+    "date": "2026-01-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "73.0"
+  },
+  {
+    "date": "2026-01-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "694.0"
+  },
+  {
+    "date": "2026-01-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.84"
+  },
+  {
+    "date": "2026-01-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "83.0"
+  },
+  {
+    "date": "2026-01-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "680.0"
+  },
+  {
+    "date": "2026-01-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.87"
+  },
+  {
+    "date": "2026-01-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "73.0"
+  },
+  {
+    "date": "2026-01-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "679.0"
+  },
+  {
+    "date": "2026-01-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.86"
+  },
+  {
+    "date": "2026-01-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "91.0"
+  },
+  {
+    "date": "2026-01-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "645.0"
+  },
+  {
+    "date": "2026-01-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.85"
+  },
+  {
+    "date": "2026-01-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "72.0"
+  },
+  {
+    "date": "2026-01-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "652.0"
+  },
+  {
+    "date": "2026-01-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.8"
+  },
+  {
+    "date": "2026-01-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "79.0"
+  },
+  {
+    "date": "2026-01-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "662.0"
+  },
+  {
+    "date": "2026-01-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.78"
+  },
+  {
+    "date": "2026-01-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "73.0"
+  },
+  {
+    "date": "2026-01-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "681.0"
+  },
+  {
+    "date": "2026-01-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.81"
+  },
+  {
+    "date": "2026-01-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "55.0"
+  },
+  {
+    "date": "2026-01-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "685.0"
+  },
+  {
+    "date": "2026-01-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.85"
+  },
+  {
+    "date": "2026-01-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "82.0"
+  },
+  {
+    "date": "2026-01-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "666.0"
+  },
+  {
+    "date": "2026-01-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.86"
+  },
+  {
+    "date": "2026-01-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-01-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "652.0"
+  },
+  {
+    "date": "2026-01-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.9"
+  },
+  {
+    "date": "2026-01-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-01-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "651.0"
+  },
+  {
+    "date": "2026-01-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.95"
+  },
+  {
+    "date": "2026-01-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-01-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "661.0"
+  },
+  {
+    "date": "2026-01-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.0"
+  },
+  {
+    "date": "2026-01-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-01-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "660.0"
+  },
+  {
+    "date": "2026-01-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.04"
+  },
+  {
+    "date": "2026-01-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "77.0"
+  },
+  {
+    "date": "2026-01-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "649.0"
+  },
+  {
+    "date": "2026-01-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.1"
+  },
+  {
+    "date": "2026-01-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "76.0"
+  },
+  {
+    "date": "2026-01-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "670.0"
+  },
+  {
+    "date": "2026-01-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.15"
+  },
+  {
+    "date": "2026-01-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "84.0"
+  },
+  {
+    "date": "2026-01-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "667.0"
+  },
+  {
+    "date": "2026-01-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.15"
+  },
+  {
+    "date": "2026-01-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "79.0"
+  },
+  {
+    "date": "2026-01-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "670.0"
+  },
+  {
+    "date": "2026-01-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.14"
+  },
+  {
+    "date": "2026-01-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "87.0"
+  },
+  {
+    "date": "2026-01-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "645.0"
+  },
+  {
+    "date": "2026-01-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.21"
+  },
+  {
+    "date": "2026-01-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "103.0"
+  },
+  {
+    "date": "2026-01-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "653.0"
+  },
+  {
+    "date": "2026-01-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.17"
+  },
+  {
+    "date": "2026-01-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "87.0"
+  },
+  {
+    "date": "2026-01-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "622.0"
+  },
+  {
+    "date": "2026-01-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.28"
+  },
+  {
+    "date": "2026-01-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "69.0"
+  },
+  {
+    "date": "2026-01-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "637.0"
+  },
+  {
+    "date": "2026-01-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.31"
+  },
+  {
+    "date": "2026-01-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "83.0"
+  },
+  {
+    "date": "2026-01-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "632.0"
+  },
+  {
+    "date": "2026-01-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.28"
+  },
+  {
+    "date": "2026-01-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "72.0"
+  },
+  {
+    "date": "2026-01-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "652.0"
+  },
+  {
+    "date": "2026-01-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.38"
+  },
+  {
+    "date": "2026-01-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-01-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "661.0"
+  },
+  {
+    "date": "2026-01-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.38"
+  },
+  {
+    "date": "2026-01-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "80.0"
+  },
+  {
+    "date": "2026-01-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "648.0"
+  },
+  {
+    "date": "2026-01-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.36"
+  },
+  {
+    "date": "2026-01-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "68.0"
+  },
+  {
+    "date": "2026-01-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "640.0"
+  },
+  {
+    "date": "2026-01-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.39"
+  },
+  {
+    "date": "2026-01-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "70.0"
+  },
+  {
+    "date": "2026-01-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "633.0"
+  },
+  {
+    "date": "2026-01-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.28"
+  },
+  {
+    "date": "2026-01-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "69.0"
+  },
+  {
+    "date": "2026-01-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "618.0"
+  },
+  {
+    "date": "2026-01-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.31"
+  },
+  {
+    "date": "2026-01-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "67.0"
+  },
+  {
+    "date": "2026-01-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "617.0"
+  },
+  {
+    "date": "2026-01-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.3"
+  },
+  {
+    "date": "2026-02-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "62.0"
+  },
+  {
+    "date": "2026-02-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "594.0"
+  },
+  {
+    "date": "2026-02-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.35"
+  },
+  {
+    "date": "2026-02-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "71.0"
+  },
+  {
+    "date": "2026-02-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "606.0"
+  },
+  {
+    "date": "2026-02-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.45"
+  },
+  {
+    "date": "2026-02-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "98.0"
+  },
+  {
+    "date": "2026-02-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "579.0"
+  },
+  {
+    "date": "2026-02-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.49"
+  },
+  {
+    "date": "2026-02-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-02-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "557.0"
+  },
+  {
+    "date": "2026-02-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.62"
+  },
+  {
+    "date": "2026-02-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "92.0"
+  },
+  {
+    "date": "2026-02-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "565.0"
+  },
+  {
+    "date": "2026-02-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.73"
+  },
+  {
+    "date": "2026-02-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "89.0"
+  },
+  {
+    "date": "2026-02-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "570.0"
+  },
+  {
+    "date": "2026-02-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.77"
+  },
+  {
+    "date": "2026-02-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "56.0"
+  },
+  {
+    "date": "2026-02-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "583.0"
+  },
+  {
+    "date": "2026-02-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.85"
+  },
+  {
+    "date": "2026-02-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "69.0"
+  },
+  {
+    "date": "2026-02-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "609.0"
+  },
+  {
+    "date": "2026-02-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.87"
+  },
+  {
+    "date": "2026-02-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "75.0"
+  },
+  {
+    "date": "2026-02-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "591.0"
+  },
+  {
+    "date": "2026-02-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.82"
+  },
+  {
+    "date": "2026-02-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "90.0"
+  },
+  {
+    "date": "2026-02-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "583.0"
+  },
+  {
+    "date": "2026-02-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.86"
+  },
+  {
+    "date": "2026-02-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "88.0"
+  },
+  {
+    "date": "2026-02-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "563.0"
+  },
+  {
+    "date": "2026-02-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.8"
+  },
+  {
+    "date": "2026-02-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "85.0"
+  },
+  {
+    "date": "2026-02-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "564.0"
+  },
+  {
+    "date": "2026-02-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.8"
+  },
+  {
+    "date": "2026-02-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "62.0"
+  },
+  {
+    "date": "2026-02-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "551.0"
+  },
+  {
+    "date": "2026-02-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.81"
+  },
+  {
+    "date": "2026-02-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "48.0"
+  },
+  {
+    "date": "2026-02-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "565.0"
+  },
+  {
+    "date": "2026-02-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.78"
+  },
+  {
+    "date": "2026-02-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "73.0"
+  },
+  {
+    "date": "2026-02-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "572.0"
+  },
+  {
+    "date": "2026-02-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.7"
+  },
+  {
+    "date": "2026-02-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "89.0"
+  },
+  {
+    "date": "2026-02-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "542.0"
+  },
+  {
+    "date": "2026-02-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.83"
+  },
+  {
+    "date": "2026-02-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "92.0"
+  },
+  {
+    "date": "2026-02-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "522.0"
+  },
+  {
+    "date": "2026-02-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.77"
+  },
+  {
+    "date": "2026-02-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "87.0"
+  },
+  {
+    "date": "2026-02-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "527.0"
+  },
+  {
+    "date": "2026-02-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.81"
+  },
+  {
+    "date": "2026-02-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "85.0"
+  },
+  {
+    "date": "2026-02-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "547.0"
+  },
+  {
+    "date": "2026-02-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.8"
+  },
+  {
+    "date": "2026-02-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "63.0"
+  },
+  {
+    "date": "2026-02-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "549.0"
+  },
+  {
+    "date": "2026-02-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.7"
+  },
+  {
+    "date": "2026-02-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "59.0"
+  },
+  {
+    "date": "2026-02-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "543.0"
+  },
+  {
+    "date": "2026-02-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.72"
+  },
+  {
+    "date": "2026-02-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "109.0"
+  },
+  {
+    "date": "2026-02-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "558.0"
+  },
+  {
+    "date": "2026-02-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.75"
+  },
+  {
+    "date": "2026-02-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "81.0"
+  },
+  {
+    "date": "2026-02-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "545.0"
+  },
+  {
+    "date": "2026-02-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.69"
+  },
+  {
+    "date": "2026-02-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "71.0"
+  },
+  {
+    "date": "2026-02-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "612.0"
+  },
+  {
+    "date": "2026-02-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.63"
+  },
+  {
+    "date": "2026-02-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "66.0"
+  },
+  {
+    "date": "2026-02-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "545.0"
+  },
+  {
+    "date": "2026-02-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.55"
+  },
+  {
+    "date": "2026-02-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "82.0"
+  },
+  {
+    "date": "2026-02-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "550.0"
+  },
+  {
+    "date": "2026-02-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.66"
+  },
+  {
+    "date": "2026-02-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "62.0"
+  },
+  {
+    "date": "2026-02-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "545.0"
+  },
+  {
+    "date": "2026-02-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.67"
+  },
+  {
+    "date": "2026-02-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "54.0"
+  },
+  {
+    "date": "2026-02-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "572.0"
+  },
+  {
+    "date": "2026-02-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.68"
+  },
+  {
+    "date": "2026-03-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "72.0"
+  },
+  {
+    "date": "2026-03-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "565.0"
+  },
+  {
+    "date": "2026-03-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.65"
+  },
+  {
+    "date": "2026-03-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "67.0"
+  },
+  {
+    "date": "2026-03-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "536.0"
+  },
+  {
+    "date": "2026-03-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.61"
+  },
+  {
+    "date": "2026-03-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "81.0"
+  },
+  {
+    "date": "2026-03-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "528.0"
+  },
+  {
+    "date": "2026-03-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.67"
+  },
+  {
+    "date": "2026-03-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "63.0"
+  },
+  {
+    "date": "2026-03-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "493.0"
+  },
+  {
+    "date": "2026-03-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.62"
+  },
+  {
+    "date": "2026-03-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "55.0"
+  },
+  {
+    "date": "2026-03-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "504.0"
+  },
+  {
+    "date": "2026-03-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.45"
+  },
+  {
+    "date": "2026-03-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "42.0"
+  },
+  {
+    "date": "2026-03-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "483.0"
+  },
+  {
+    "date": "2026-03-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.32"
+  },
+  {
+    "date": "2026-03-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "49.0"
+  },
+  {
+    "date": "2026-03-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "509.0"
+  },
+  {
+    "date": "2026-03-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.25"
+  },
+  {
+    "date": "2026-03-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "53.0"
+  },
+  {
+    "date": "2026-03-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "508.0"
+  },
+  {
+    "date": "2026-03-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.25"
+  },
+  {
+    "date": "2026-03-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "59.0"
+  },
+  {
+    "date": "2026-03-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "479.0"
+  },
+  {
+    "date": "2026-03-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.29"
+  },
+  {
+    "date": "2026-03-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "63.0"
+  },
+  {
+    "date": "2026-03-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "482.0"
+  },
+  {
+    "date": "2026-03-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.18"
+  },
+  {
+    "date": "2026-03-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "57.0"
+  },
+  {
+    "date": "2026-03-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "485.0"
+  },
+  {
+    "date": "2026-03-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.16"
+  },
+  {
+    "date": "2026-03-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "84.0"
+  },
+  {
+    "date": "2026-03-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "461.0"
+  },
+  {
+    "date": "2026-03-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.18"
+  },
+  {
+    "date": "2026-03-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "59.0"
+  },
+  {
+    "date": "2026-03-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "452.0"
+  },
+  {
+    "date": "2026-03-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.21"
+  },
+  {
+    "date": "2026-03-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "50.0"
+  },
+  {
+    "date": "2026-03-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "483.0"
+  },
+  {
+    "date": "2026-03-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.2"
+  },
+  {
+    "date": "2026-03-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "59.0"
+  },
+  {
+    "date": "2026-03-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "481.0"
+  },
+  {
+    "date": "2026-03-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.25"
+  },
+  {
+    "date": "2026-03-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "66.0"
+  },
+  {
+    "date": "2026-03-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "450.0"
+  },
+  {
+    "date": "2026-03-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.24"
+  },
+  {
+    "date": "2026-03-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "65.0"
+  },
+  {
+    "date": "2026-03-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "432.0"
+  },
+  {
+    "date": "2026-03-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.35"
+  },
+  {
+    "date": "2026-03-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "55.0"
+  },
+  {
+    "date": "2026-03-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "404.0"
+  },
+  {
+    "date": "2026-03-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.35"
+  },
+  {
+    "date": "2026-03-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "58.0"
+  },
+  {
+    "date": "2026-03-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "418.0"
+  },
+  {
+    "date": "2026-03-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.29"
+  },
+  {
+    "date": "2026-03-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "66.0"
+  },
+  {
+    "date": "2026-03-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "409.0"
+  },
+  {
+    "date": "2026-03-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.29"
+  },
+  {
+    "date": "2026-03-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "51.0"
+  },
+  {
+    "date": "2026-03-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "419.0"
+  },
+  {
+    "date": "2026-03-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.37"
+  },
+  {
+    "date": "2026-03-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "62.0"
+  },
+  {
+    "date": "2026-03-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "405.0"
+  },
+  {
+    "date": "2026-03-22",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.34"
+  },
+  {
+    "date": "2026-03-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "72.0"
+  },
+  {
+    "date": "2026-03-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "406.0"
+  },
+  {
+    "date": "2026-03-23",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.35"
+  },
+  {
+    "date": "2026-03-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "68.0"
+  },
+  {
+    "date": "2026-03-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "397.0"
+  },
+  {
+    "date": "2026-03-24",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.3"
+  },
+  {
+    "date": "2026-03-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "53.0"
+  },
+  {
+    "date": "2026-03-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "409.0"
+  },
+  {
+    "date": "2026-03-25",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.37"
+  },
+  {
+    "date": "2026-03-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "39.0"
+  },
+  {
+    "date": "2026-03-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "401.0"
+  },
+  {
+    "date": "2026-03-26",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.38"
+  },
+  {
+    "date": "2026-03-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "39.0"
+  },
+  {
+    "date": "2026-03-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "403.0"
+  },
+  {
+    "date": "2026-03-27",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.36"
+  },
+  {
+    "date": "2026-03-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "31.0"
+  },
+  {
+    "date": "2026-03-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "394.0"
+  },
+  {
+    "date": "2026-03-28",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.26"
+  },
+  {
+    "date": "2026-03-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "47.0"
+  },
+  {
+    "date": "2026-03-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "376.0"
+  },
+  {
+    "date": "2026-03-29",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.24"
+  },
+  {
+    "date": "2026-03-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "50.0"
+  },
+  {
+    "date": "2026-03-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "365.0"
+  },
+  {
+    "date": "2026-03-30",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.14"
+  },
+  {
+    "date": "2026-03-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "37.0"
+  },
+  {
+    "date": "2026-03-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "338.0"
+  },
+  {
+    "date": "2026-03-31",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.14"
+  },
+  {
+    "date": "2026-04-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "53.0"
+  },
+  {
+    "date": "2026-04-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "334.0"
+  },
+  {
+    "date": "2026-04-01",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.03"
+  },
+  {
+    "date": "2026-04-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "47.0"
+  },
+  {
+    "date": "2026-04-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "322.0"
+  },
+  {
+    "date": "2026-04-02",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.08"
+  },
+  {
+    "date": "2026-04-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "44.0"
+  },
+  {
+    "date": "2026-04-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "301.0"
+  },
+  {
+    "date": "2026-04-03",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.11"
+  },
+  {
+    "date": "2026-04-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "34.0"
+  },
+  {
+    "date": "2026-04-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "325.0"
+  },
+  {
+    "date": "2026-04-04",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.08"
+  },
+  {
+    "date": "2026-04-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "35.0"
+  },
+  {
+    "date": "2026-04-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "332.0"
+  },
+  {
+    "date": "2026-04-05",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.1"
+  },
+  {
+    "date": "2026-04-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "35.0"
+  },
+  {
+    "date": "2026-04-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "325.0"
+  },
+  {
+    "date": "2026-04-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.1"
+  },
+  {
+    "date": "2026-04-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "40.0"
+  },
+  {
+    "date": "2026-04-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "324.0"
+  },
+  {
+    "date": "2026-04-07",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.09"
+  },
+  {
+    "date": "2026-04-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "35.0"
+  },
+  {
+    "date": "2026-04-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "315.0"
+  },
+  {
+    "date": "2026-04-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.15"
+  },
+  {
+    "date": "2026-04-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "37.0"
+  },
+  {
+    "date": "2026-04-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "315.0"
+  },
+  {
+    "date": "2026-04-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "2.09"
+  },
+  {
+    "date": "2026-04-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "42.0"
+  },
+  {
+    "date": "2026-04-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "309.0"
+  },
+  {
+    "date": "2026-04-10",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.96"
+  },
+  {
+    "date": "2026-04-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "23.0"
+  },
+  {
+    "date": "2026-04-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "335.0"
+  },
+  {
+    "date": "2026-04-11",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.97"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "28.0"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "348.0"
+  },
+  {
+    "date": "2026-04-12",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.91"
+  },
+  {
+    "date": "2026-04-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "37.0"
+  },
+  {
+    "date": "2026-04-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "312.0"
+  },
+  {
+    "date": "2026-04-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.81"
+  },
+  {
+    "date": "2026-04-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "32.0"
+  },
+  {
+    "date": "2026-04-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "298.0"
+  },
+  {
+    "date": "2026-04-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.72"
+  },
+  {
+    "date": "2026-04-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_admissionByDay",
+    "raw_value": "32.0"
+  },
+  {
+    "date": "2026-04-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_healthcare_occupiedBedsByDay",
+    "raw_value": "305.0"
+  },
+  {
+    "date": "2026-04-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "1.53"
+  },
+  {
     "date": "2026-04-16",
     "source": "UKHSA",
     "prevalence_proportion": null,
