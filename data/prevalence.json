@@ -10681,16 +10681,6 @@
   },
   {
     "date": "2026-08-30",
-    "source": "BuDS",
-    "prevalence_proportion": 0.0011668611435239206,
-    "prevalence_ratio": 857,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-30-august-2026/"
-  },
-  {
-    "date": "2026-08-30",
     "source": "UKHSA",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
@@ -10898,16 +10888,6 @@
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
     "raw_value": "4.59"
-  },
-  {
-    "date": "2026-09-06",
-    "source": "BuDS",
-    "prevalence_proportion": 0.0014814814814814814,
-    "prevalence_ratio": 675,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-6-september-2026/"
   },
   {
     "date": "2026-09-06",
@@ -11121,16 +11101,6 @@
   },
   {
     "date": "2026-09-13",
-    "source": "BuDS",
-    "prevalence_proportion": 0.0026455026455026454,
-    "prevalence_ratio": 378,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-13-september-2026/"
-  },
-  {
-    "date": "2026-09-13",
     "source": "UKHSA",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
@@ -11338,16 +11308,6 @@
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
     "raw_value": "7.19"
-  },
-  {
-    "date": "2026-09-20",
-    "source": "BuDS",
-    "prevalence_proportion": 0.0032679738562091504,
-    "prevalence_ratio": 306,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-20-september-2026/"
   },
   {
     "date": "2026-09-20",
@@ -11561,16 +11521,6 @@
   },
   {
     "date": "2026-09-27",
-    "source": "BuDS",
-    "prevalence_proportion": 0.004273504273504274,
-    "prevalence_ratio": 234,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-27-september-2026/"
-  },
-  {
-    "date": "2026-09-27",
     "source": "UKHSA",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
@@ -11718,16 +11668,6 @@
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
     "raw_value": "9.29"
-  },
-  {
-    "date": "2026-10-04",
-    "source": "BuDS",
-    "prevalence_proportion": 0.005714285714285714,
-    "prevalence_ratio": 175,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "prevalence",
-    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-4-october-2026/"
   },
   {
     "date": "2026-10-04",
