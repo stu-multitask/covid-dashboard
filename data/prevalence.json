@@ -12060,7 +12060,27 @@
     "raw_value": "9.28"
   },
   {
+    "date": "2026-10-11",
+    "source": "BuDS",
+    "prevalence_proportion": 0.00625,
+    "prevalence_ratio": 160,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "prevalence",
+    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-11-october-2026/"
+  },
+  {
     "date": "2026-10-13",
+    "source": "disease.sh",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "cases",
+    "raw_value": "24910387"
+  },
+  {
+    "date": "2026-10-14",
     "source": "disease.sh",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
