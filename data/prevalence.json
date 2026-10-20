@@ -16698,5 +16698,15 @@
     "upper_ci": null,
     "metric_type": "cases",
     "raw_value": "24910387"
+  },
+  {
+    "date": "2026-10-20",
+    "source": "disease.sh",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "cases",
+    "raw_value": "24910387"
   }
 ]
