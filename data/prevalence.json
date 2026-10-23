@@ -1287,7 +1287,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "406.0"
+    "raw_value": "407.0"
   },
   {
     "date": "2025-10-10",
@@ -1797,7 +1797,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "314.0"
+    "raw_value": "313.0"
   },
   {
     "date": "2025-10-22",
@@ -2567,7 +2567,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "133.0"
+    "raw_value": "134.0"
   },
   {
     "date": "2025-11-09",
@@ -4587,7 +4587,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "1.8"
+    "raw_value": "1.79"
   },
   {
     "date": "2025-12-27",
@@ -5877,7 +5877,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "2.38"
+    "raw_value": "2.37"
   },
   {
     "date": "2026-01-27",
@@ -9577,7 +9577,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_deaths_ONSRegByWeek",
-    "raw_value": "21.0"
+    "raw_value": "22.0"
   },
   {
     "date": "2026-04-24",
@@ -13177,7 +13177,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "0.96"
+    "raw_value": "0.95"
   },
   {
     "date": "2026-07-18",
@@ -14927,7 +14927,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "3.53"
+    "raw_value": "3.52"
   },
   {
     "date": "2026-08-28",
@@ -15547,7 +15547,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_deaths_ONSRegByWeek",
-    "raw_value": "20.0"
+    "raw_value": "21.0"
   },
   {
     "date": "2026-09-11",
@@ -15717,7 +15717,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "200.0"
+    "raw_value": "201.0"
   },
   {
     "date": "2026-09-15",
@@ -15747,7 +15747,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "6.75"
+    "raw_value": "6.76"
   },
   {
     "date": "2026-09-16",
@@ -15827,7 +15827,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.16"
+    "raw_value": "7.17"
   },
   {
     "date": "2026-09-18",
@@ -15837,7 +15837,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "187.0"
+    "raw_value": "188.0"
   },
   {
     "date": "2026-09-18",
@@ -15847,7 +15847,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_deaths_ONSRegByWeek",
-    "raw_value": "20.0"
+    "raw_value": "21.0"
   },
   {
     "date": "2026-09-18",
@@ -15877,7 +15877,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.26"
+    "raw_value": "7.28"
   },
   {
     "date": "2026-09-19",
@@ -15887,7 +15887,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "147.0"
+    "raw_value": "149.0"
   },
   {
     "date": "2026-09-19",
@@ -15917,7 +15917,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.32"
+    "raw_value": "7.35"
   },
   {
     "date": "2026-09-20",
@@ -15937,7 +15937,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "172.0"
+    "raw_value": "174.0"
   },
   {
     "date": "2026-09-20",
@@ -15967,7 +15967,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.43"
+    "raw_value": "7.45"
   },
   {
     "date": "2026-09-21",
@@ -16007,7 +16007,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.48"
+    "raw_value": "7.51"
   },
   {
     "date": "2026-09-22",
@@ -16017,7 +16017,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "253.0"
+    "raw_value": "255.0"
   },
   {
     "date": "2026-09-22",
@@ -16047,7 +16047,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.66"
+    "raw_value": "7.69"
   },
   {
     "date": "2026-09-23",
@@ -16057,7 +16057,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "252.0"
+    "raw_value": "257.0"
   },
   {
     "date": "2026-09-23",
@@ -16087,7 +16087,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "7.99"
+    "raw_value": "8.03"
   },
   {
     "date": "2026-09-24",
@@ -16097,7 +16097,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "238.0"
+    "raw_value": "241.0"
   },
   {
     "date": "2026-09-24",
@@ -16127,7 +16127,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "8.12"
+    "raw_value": "8.16"
   },
   {
     "date": "2026-09-25",
@@ -16177,7 +16177,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "8.33"
+    "raw_value": "8.36"
   },
   {
     "date": "2026-09-26",
@@ -16217,7 +16217,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "8.45"
+    "raw_value": "8.48"
   },
   {
     "date": "2026-09-27",
@@ -16267,7 +16267,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "8.48"
+    "raw_value": "8.51"
   },
   {
     "date": "2026-09-28",
@@ -16277,7 +16277,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "313.0"
+    "raw_value": "314.0"
   },
   {
     "date": "2026-09-28",
@@ -16307,7 +16307,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "8.76"
+    "raw_value": "8.8"
   },
   {
     "date": "2026-09-29",
@@ -16317,7 +16317,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "345.0"
+    "raw_value": "347.0"
   },
   {
     "date": "2026-09-29",
@@ -16347,7 +16347,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.05"
+    "raw_value": "9.1"
   },
   {
     "date": "2026-09-30",
@@ -16387,7 +16387,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.2"
+    "raw_value": "9.27"
   },
   {
     "date": "2026-10-01",
@@ -16397,7 +16397,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "331.0"
+    "raw_value": "333.0"
   },
   {
     "date": "2026-10-01",
@@ -16407,7 +16407,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.25"
+    "raw_value": "9.34"
   },
   {
     "date": "2026-10-02",
@@ -16417,7 +16417,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "297.0"
+    "raw_value": "299.0"
   },
   {
     "date": "2026-10-02",
@@ -16437,7 +16437,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.24"
+    "raw_value": "9.34"
   },
   {
     "date": "2026-10-03",
@@ -16457,7 +16457,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.31"
+    "raw_value": "9.43"
   },
   {
     "date": "2026-10-04",
@@ -16487,7 +16487,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.32"
+    "raw_value": "9.45"
   },
   {
     "date": "2026-10-05",
@@ -16497,7 +16497,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "315.0"
+    "raw_value": "316.0"
   },
   {
     "date": "2026-10-05",
@@ -16507,10 +16507,30 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.17"
+    "raw_value": "9.3"
   },
   {
     "date": "2026-10-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "365.0"
+  },
+  {
+    "date": "2026-10-06",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.2"
+  },
+  {
+    "date": "2026-10-07",
     "source": "UKHSA",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
@@ -16520,47 +16540,7 @@
     "raw_value": "359.0"
   },
   {
-    "date": "2026-10-06",
-    "source": "UKHSA",
-    "prevalence_proportion": null,
-    "prevalence_ratio": null,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.11"
-  },
-  {
     "date": "2026-10-07",
-    "source": "UKHSA",
-    "prevalence_proportion": null,
-    "prevalence_ratio": null,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "358.0"
-  },
-  {
-    "date": "2026-10-07",
-    "source": "UKHSA",
-    "prevalence_proportion": null,
-    "prevalence_ratio": null,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.02"
-  },
-  {
-    "date": "2026-10-08",
-    "source": "UKHSA",
-    "prevalence_proportion": null,
-    "prevalence_ratio": null,
-    "lower_ci": null,
-    "upper_ci": null,
-    "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "349.0"
-  },
-  {
-    "date": "2026-10-08",
     "source": "UKHSA",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
@@ -16570,6 +16550,26 @@
     "raw_value": "9.09"
   },
   {
+    "date": "2026-10-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "355.0"
+  },
+  {
+    "date": "2026-10-08",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.11"
+  },
+  {
     "date": "2026-10-09",
     "source": "UKHSA",
     "prevalence_proportion": null,
@@ -16577,7 +16577,17 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "346.0"
+    "raw_value": "359.0"
+  },
+  {
+    "date": "2026-10-09",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_deaths_ONSRegByWeek",
+    "raw_value": "55.0"
   },
   {
     "date": "2026-10-09",
@@ -16587,7 +16597,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.25"
+    "raw_value": "9.18"
   },
   {
     "date": "2026-10-10",
@@ -16597,7 +16607,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "271.0"
+    "raw_value": "282.0"
   },
   {
     "date": "2026-10-10",
@@ -16607,7 +16617,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.25"
+    "raw_value": "9.24"
   },
   {
     "date": "2026-10-11",
@@ -16627,7 +16637,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "246.0"
+    "raw_value": "258.0"
   },
   {
     "date": "2026-10-11",
@@ -16637,7 +16647,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.17"
+    "raw_value": "9.15"
   },
   {
     "date": "2026-10-12",
@@ -16647,7 +16657,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "348.0"
+    "raw_value": "404.0"
   },
   {
     "date": "2026-10-12",
@@ -16657,7 +16667,7 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_testing_positivity7DayRolling",
-    "raw_value": "9.24"
+    "raw_value": "9.3"
   },
   {
     "date": "2026-10-13",
@@ -16667,7 +16677,17 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "203.0"
+    "raw_value": "380.0"
+  },
+  {
+    "date": "2026-10-13",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.32"
   },
   {
     "date": "2026-10-14",
@@ -16677,7 +16697,17 @@
     "lower_ci": null,
     "upper_ci": null,
     "metric_type": "COVID-19_cases_casesByDay",
-    "raw_value": "52.0"
+    "raw_value": "374.0"
+  },
+  {
+    "date": "2026-10-14",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.26"
   },
   {
     "date": "2026-10-14",
@@ -16688,6 +16718,46 @@
     "upper_ci": null,
     "metric_type": "cases",
     "raw_value": "24910387"
+  },
+  {
+    "date": "2026-10-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "348.0"
+  },
+  {
+    "date": "2026-10-15",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.3"
+  },
+  {
+    "date": "2026-10-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "343.0"
+  },
+  {
+    "date": "2026-10-16",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.28"
   },
   {
     "date": "2026-10-16",
@@ -16700,7 +16770,107 @@
     "raw_value": "24910387"
   },
   {
+    "date": "2026-10-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "259.0"
+  },
+  {
+    "date": "2026-10-17",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.23"
+  },
+  {
+    "date": "2026-10-18",
+    "source": "BuDS",
+    "prevalence_proportion": 0.006711409395973154,
+    "prevalence_ratio": 149,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "prevalence",
+    "raw_value": "https://buds.org.uk/covid-19-risk-assessment-week-ending-18-october-2026/"
+  },
+  {
+    "date": "2026-10-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "242.0"
+  },
+  {
+    "date": "2026-10-18",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.26"
+  },
+  {
+    "date": "2026-10-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "323.0"
+  },
+  {
+    "date": "2026-10-19",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_testing_positivity7DayRolling",
+    "raw_value": "9.11"
+  },
+  {
     "date": "2026-10-20",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "198.0"
+  },
+  {
+    "date": "2026-10-20",
+    "source": "disease.sh",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "cases",
+    "raw_value": "24910387"
+  },
+  {
+    "date": "2026-10-21",
+    "source": "UKHSA",
+    "prevalence_proportion": null,
+    "prevalence_ratio": null,
+    "lower_ci": null,
+    "upper_ci": null,
+    "metric_type": "COVID-19_cases_casesByDay",
+    "raw_value": "43.0"
+  },
+  {
+    "date": "2026-10-23",
     "source": "disease.sh",
     "prevalence_proportion": null,
     "prevalence_ratio": null,
